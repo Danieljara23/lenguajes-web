@@ -9,4 +9,6 @@ In this little workshop we'll try to recreate a simple cards layout similar to t
 1. Clone the repo
   `git clone https://github.com/Danieljara23/lenguajes-web.git`
 
-
+2. Keep in mind
+  - The final layout should contain at least 6 cards
+  - You should upload your final work to github pages
